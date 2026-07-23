@@ -1,1 +1,2 @@
 # international_schools_data
+This project contains data collected about international schools and displays it in an interactive and intuitive search functionality. This will allow users to more easily search for an international school to work at based on what they are looking for in a school.
